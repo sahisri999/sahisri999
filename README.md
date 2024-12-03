@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sahisri
+- 👋 Hi, I’m sahisri
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on data anlysis projects
